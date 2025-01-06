@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.7.2"
+  },
+  "name": "my-type-script",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "starttsc": "tsc && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
